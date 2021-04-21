@@ -20,5 +20,5 @@
    },
    "files.autoSave": "off",
    "workbench.colorTheme": "light",
-   "editor.defaultFormatter": "HookyQR.beautify",
+   "editor.defaultFormatter": "HookyQR.beautify"
 }
